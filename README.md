@@ -1,4 +1,4 @@
-# bank_app
+# Flutter Sidebar X
 
 A new Flutter project.
 
